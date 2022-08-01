@@ -9,3 +9,4 @@ AlamPasha/AlamPasha is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 comprehensiveproject20220731171939.azurewebsites.net
+https://comprehensiveproject20220731171939.azurewebsites.net/Default.aspx
